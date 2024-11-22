@@ -5,7 +5,7 @@ import { faInstagram } from "@fortawesome/free-brands-svg-icons";
 import Image from "next/image";
 export default function About() {
   return (
-    <div className="h-auto md:flex px-4 md:px-10 lg:px-20 p-10 justify-evenly items-center gap-8 md:h-auto md:py-24 w-100 bg-[#3e362e]">
+    <div id="about" className="h-auto lg:h-screen md:flex px-4 md:px-10 lg:px-20 p-10 justify-evenly items-center gap-8 md:h-auto md:py-24 w-100 bg-[#3e362e]">
       <div className="w-[100%]px-2 text-center md:text-left">
         <h1 className="text-2xl md:text-3xl text-[rgb(134,93,54)] lg:text-5xl font-semibold font-serif">
           NIMRA RASHEED

@@ -1,5 +1,9 @@
 @tailwind base;
 @tailwind components;
+
+.navlinks{
+  @apply cursor-pointer px-2 py-1 text-xl text-[#3e362e] font-bold hover:bg-[#3e362e] hover:text-[#865d36] hover:rounded-md;
+  }
 @tailwind utilities;
 
 :root {

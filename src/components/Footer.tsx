@@ -32,7 +32,7 @@ export default function Footer() {
   
         {/* Connect Section */}
         <div>
-          <h4 className="text-xl font-bold text-[#3e362e] mb-4">Let's connect</h4>
+          <h4 className="text-xl font-bold text-[#3e362e] mb-4">{`Let's connect`}</h4>
           <div className="space-y-4">
             <a
               href="https://www.linkedin.com/in/nimra-rasheed-45a362125"

@@ -5,7 +5,7 @@ const ContactSection = () => {
         <div className="max-w-5xl mx-auto flex flex-col lg:flex-row items-center gap-10 p-4 border-2 border-[#3e362e]">
           {/* Chat Info */}
           <div className="text-center lg:text-left bg-[#ac8968]">
-            <h3 className="text-xl font-bold text-[#3e362e]">Let's Chat</h3>
+            <h3 className="text-xl font-bold text-[#3e362e]">{`Let's Chat`}</h3>
             <p className="text-black mt-2">
               {`I’m excited to hear your thoughts and ideas. Whether you have
               questions or just want to share ideas, drop me a message!`}

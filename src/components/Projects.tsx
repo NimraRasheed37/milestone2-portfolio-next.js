@@ -31,6 +31,16 @@ const projects = [
       image: "/img/projects/wallpapers.PNG",
       link: "https://wallpaper-downloader-by-nimra-rasheed.vercel.app/",
     },
+    {
+      name: "Comforty E-commerce",
+      image: "/img/projects/comforty.PNG",
+      link: "https://q2-hackathon-by-nimra.vercel.app/",
+    },
+    {
+      name: "Jadoo Travel",
+      image: "/img/projects/jadoo.PNG",
+      link: "https://figma-to-next-js-beige.vercel.app/",
+    },
   ];
   
   export default function ProjectsSection() {
@@ -39,7 +49,7 @@ const projects = [
         <h1 className="text-2xl lg:text-5xl font-bold text-center bg-[#865d36] text-[#3e362e] py-2 shadow-md">
           Projects
         </h1>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-8 py-8 bg-[#3e362e]">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 px-8 py-8 bg-[#3e362e]">
           {projects.map((project, index) => (
             <div
               key={index}

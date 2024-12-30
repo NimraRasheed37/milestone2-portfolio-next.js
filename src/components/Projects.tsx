@@ -16,7 +16,7 @@ const projects = [
       image: "/img/projects/blog.PNG",
       link: "https://milestone3-blog-by-nimra-gamma.vercel.app/",
     },
-    {
+    { 
       name: "Music Player",
       image: "/img/projects/music-player.PNG",
       link: "https://music-player-by-nimra.vercel.app/",

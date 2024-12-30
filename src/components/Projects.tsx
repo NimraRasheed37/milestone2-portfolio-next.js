@@ -4,12 +4,17 @@ const projects = [
     {
       name: "Ababeel Bookstore",
       image: "/img/projects/ababeel.PNG",
-      link: "https://milestone3-ecommerce-store-ababeel-by-nimra.vercel.app/",
+      link: "https://milestone3-ecommerce-by-nimra.vercel.app/",
     },
     {
       name: "Panacloud",
       image: "/img/projects/panacloud.PNG",
       link: "https://panaclound-final-assignment-by-nimra.vercel.app/",
+    },
+    {
+      name: "BookWorms Blog",
+      image: "/img/projects/blog.PNG",
+      link: "https://milestone3-blog-by-nimra-gamma.vercel.app/",
     },
     {
       name: "Music Player",
